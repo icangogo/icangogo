@@ -1,0 +1,15 @@
+HELP.md
+icangogo-lip/**/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+icangogo-lip/.idea
+icangogo-lip/*.iws
+icangogo-lip/*.iml
+icangogo-lip/*.ipr
+.idea
+*.iws
+*.iml
+*.ipr
