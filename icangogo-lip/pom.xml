@@ -49,7 +49,7 @@
         <pagehelper.version>1.2.3</pagehelper.version>
         <mybatis.version>2.1.0</mybatis.version>
         <!--安全-->
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <jwt.version>3.2.0</jwt.version>
         <!--json-->
         <fastjson.version>1.2.44</fastjson.version>
