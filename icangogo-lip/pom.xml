@@ -56,7 +56,7 @@
         <!--tool-->
         <commons.io.version>2.5</commons.io.version>
         <commons-lang3.version>3.6</commons-lang3.version>
-        <spring-beans.version>5.1.6.RELEASE</spring-beans.version>
+        <spring-beans.version>5.3.18</spring-beans.version>
         <!--swagger-->
         <swagger.version>2.2.2</swagger.version>
         <!--fastdfs-->
