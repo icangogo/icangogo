@@ -52,7 +52,7 @@
         <shiro.version>1.4.0</shiro.version>
         <jwt.version>3.2.0</jwt.version>
         <!--json-->
-        <fastjson.version>1.2.44</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <!--tool-->
         <commons.io.version>2.5</commons.io.version>
         <commons-lang3.version>3.6</commons-lang3.version>
